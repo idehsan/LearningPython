@@ -1,6 +1,5 @@
 # Python Basics
-We disscuss about these subjects in the basics of python:
-
+We disscuss about these subjects in the python basics:
 - Arithmetic Operators
 - String Basic Functions
 - Arrays
@@ -10,3 +9,5 @@ We disscuss about these subjects in the basics of python:
 - Input & Output
 - Printing Format
 - Class
+
+# Numpy Basics
